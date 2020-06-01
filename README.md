@@ -1,3 +1,3 @@
 # Code Refactor Starter Code
-This repository focuses on adding accessibility to pre-existing code for a marketing agency's website 
+This repository focuses on refractoring a pre-existing website for optimal accessibility. 
 ![Project Screenshot] (/Screenshot (106).png)
